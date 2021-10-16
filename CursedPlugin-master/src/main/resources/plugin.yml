@@ -1,0 +1,6 @@
+name: Cursed
+version: ${project.version}
+main: com.mikedeejay2.cursedplugin.CursedPlugin
+api-version: 1.16
+authors: [ Mikedeejay2, ThatCoolDevGuy ]
+description: A very cursed plugin for cursed things
